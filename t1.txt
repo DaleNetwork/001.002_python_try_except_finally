@@ -1,0 +1,2 @@
+verify auto sync to GitHub
+add one more line at the same time of changing t2.txt

@@ -1,0 +1,5 @@
+t2 verify if one commit reflect multi file's change
+will create t1.txt and t2.txt, add to stage area,
+then commit.
+do we need one commit comment or one for each file?
+add one more line at the same time of changing t1.txt
